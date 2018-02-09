@@ -1,0 +1,17 @@
+h2.introduction{
+	color: red;
+	font-size: 30px;
+	text-orientation: center;
+}
+p.introduction{
+	font-family: sans-serif;
+	font-size: 15px;
+}
+img.introduction{
+	position: relative;
+	size: 100%;
+	margin: yellow;
+}
+body{
+	background: lime;
+}
